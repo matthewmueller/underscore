@@ -2,8 +2,7 @@
   "name": "underscore",
   "description": "underscore.js as a component",
   "version": "0.0.1",
-  "dependencies": {},
   "scripts": [
-    "index.js"
+    "underscore.js"
   ]
 }
